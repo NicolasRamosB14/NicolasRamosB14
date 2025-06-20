@@ -1,16 +1,17 @@
-![Header](./github-header-image.png)
+![Header](./Banner.jpg)
+---
+## LinkedIn & Portafolio
 
-<!--
-**NicolasRamosB14/NicolasRamosB14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* LinkedIn → www.linkedin.com/in/nicolásramos
+* Portafolio de Proyectos → 
 
-Here are some ideas to get you started:
+---
+## Perfil Profesional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Graduado en **Ingeniería de Telecomunicaciones**, con una sólida base técnica y una creciente pasión por el **análisis de datos**, incluyendo la visualización y la extracción de insights valiosos. Poseo conocimiento en **Python, SQL, Excel y herramientas de visualización como Power BI**. He realizado proyectos personales utilizando estas herramientas, donde apliqué técnicas de análisis de datos.
+
+Soy una persona proactiva y orientada a resultados, con un fuerte deseo de aprender y crecer en el sector tecnológico. Mi objetivo es iniciar mi carrera profesional en roles relacionados con el análisis de datos, como analista de datos junior, científico de datos junior o posiciones similares dentro del sector tecnológico, dentro de una empresa que me permita aportar valor y continuar mi desarrollo profesional.
+
+Abierto a nuevas oportunidades y a expandir mi red profesional en el ámbito del **análisis de datos y TI**.
+
+---
