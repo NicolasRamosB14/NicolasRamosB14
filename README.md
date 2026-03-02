@@ -1,4 +1,4 @@
-![Header](./Banner.jpg)
+![Header](./Banner.png)
 ---
 ## LinkedIn & Portafolio
 
