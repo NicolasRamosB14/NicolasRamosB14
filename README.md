@@ -8,10 +8,8 @@
 ---
 ## Perfil Profesional
 
-Graduado en **Ingeniería de Telecomunicaciones**, con una sólida base técnica y una creciente pasión por el **análisis de datos**, incluyendo la visualización y la extracción de insights valiosos. Poseo conocimiento en **Python, SQL, Excel y herramientas de visualización como Power BI**. He realizado proyectos personales utilizando estas herramientas, donde apliqué técnicas de análisis de datos.
+Ingeniero de Telecomunicaciones interesado en el mundo de los datos y en cómo transformarlos en información útil para la toma de decisiones. He desarrollado proyectos personales en **Data Engineering y Analytics**, trabajando con **Python, PySpark y SQL** para construir **pipelines** y automatizar procesos de extracción y transformación **(arquitectura Medallion)**. Para convertir los resultados en insights accionables, manejo herramientas de visualización como **Power BI**, **Looker Studio y Power Query** para crear dashboards interactivos. Además, utilizo Docker y Git para gestionar entornos replicables y versionado de proyectos. 
 
-Soy una persona proactiva y orientada a resultados, con un fuerte deseo de aprender y crecer en el sector tecnológico. Mi objetivo es iniciar mi carrera profesional en roles relacionados con el análisis de datos, como analista de datos junior, científico de datos junior o posiciones similares dentro del sector tecnológico, dentro de una empresa que me permita aportar valor y continuar mi desarrollo profesional.
-
-Abierto a nuevas oportunidades y a expandir mi red profesional en el ámbito del **análisis de datos y TI**.
+Actualmente continúo fortaleciendo mis conocimientos a través del aprendizaje autodidacta y proyectos prácticos, con el objetivo de iniciar mi carrera profesional como **Data / Analytics Engineer Jr**.
 
 ---
